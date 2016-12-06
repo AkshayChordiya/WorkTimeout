@@ -22,8 +22,8 @@ Run `uninstall.bat`
 
 ### Acknowledgements
 
-* Thanks to Aditya Kamble (adityakamble49@gmail.com) for bat script idea.
+* Thanks to [Aditya Kamble](https://github.com/adityakamble49) for bat script idea.
 
 ### Credits
 
-Author: Akshay Chordiya (akshaychordiya2@gmail.com)
+Author: [Akshay Chordiya](https://github.com/AkshayChordiya)
